@@ -1,0 +1,4 @@
+---
+# tasks file for nginx
+- name: Install nginx on Debian/Ubuntu
+  include_tasks: install_nginx.yml

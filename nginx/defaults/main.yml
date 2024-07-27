@@ -1,0 +1,7 @@
+---
+# defaults file for nginx
+
+
+nginx_port: 80
+nginx_service: nginx
+nginx_package: nginx
